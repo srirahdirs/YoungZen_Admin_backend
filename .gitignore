@@ -1,0 +1,3 @@
+node_modules/.bin/nodemon.cmd
+/node_modules
+/uploads
