@@ -26,8 +26,7 @@ app.use(cors({
         'https://staging.nypunyaaesthetics.com/',
         'https://staging.nypunyaaesthetics.com',
         'https://dashboard.nypunyaaesthetics.com',
-        'https://young-zen-admin-backend.vercel.app',
-        'https://young-zen-admin-frontend.vercel.app/',
+        'https://young-zen-admin-frontend.vercel.app',
     ],
     credentials: true, // important to allow cookies
 }));
