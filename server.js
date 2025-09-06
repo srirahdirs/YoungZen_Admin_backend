@@ -28,6 +28,7 @@ app.use(cors({
         'https://dashboard.nypunyaaesthetics.com',
         'https://young-zen-admin-frontend.vercel.app',
         'https://youngzen.in',
+        'https://www.youngzen.in',
     ],
     credentials: true, // important to allow cookies
 }));
